@@ -1,0 +1,8 @@
+forge 'http://forge.puppetlabs.com'
+
+mod 'adrien/boolean', '>= 1.0.0'
+mod 'adrien/filemapper', '>= 1.0.0'
+
+mod 'network',
+  :git => 'git@github.com:nvalentine-puppetlabs/puppet-network',
+  :ref => '0.4.1'
