@@ -1,4 +1,4 @@
 dev-puppet-module
 =================
 
-Scaffolding for Puppet module development with Vagrant
+Hacking environment for the adrien/network Puppet module.
